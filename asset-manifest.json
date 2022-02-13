@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fdlite/static/css/main.0cd1f00f.chunk.css",
+    "main.js": "/fdlite/static/js/main.37996ba9.chunk.js",
+    "main.js.map": "/fdlite/static/js/main.37996ba9.chunk.js.map",
+    "runtime-main.js": "/fdlite/static/js/runtime-main.0ad2566a.js",
+    "runtime-main.js.map": "/fdlite/static/js/runtime-main.0ad2566a.js.map",
+    "static/js/2.e0370671.chunk.js": "/fdlite/static/js/2.e0370671.chunk.js",
+    "static/js/2.e0370671.chunk.js.map": "/fdlite/static/js/2.e0370671.chunk.js.map",
+    "index.html": "/fdlite/index.html",
+    "static/css/main.0cd1f00f.chunk.css.map": "/fdlite/static/css/main.0cd1f00f.chunk.css.map",
+    "static/js/2.e0370671.chunk.js.LICENSE.txt": "/fdlite/static/js/2.e0370671.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fdlite/static/media/NeoGram.6f2e5598.ttf",
+    "static/media/accueil-bg.8101c1e7.jpg": "/fdlite/static/media/accueil-bg.8101c1e7.jpg",
+    "static/media/loading-bg.151b6c02.jpg": "/fdlite/static/media/loading-bg.151b6c02.jpg",
+    "static/media/manger-bg.b35c984a.jpg": "/fdlite/static/media/manger-bg.b35c984a.jpg",
+    "static/media/profil-bg.a589f8e6.jpg": "/fdlite/static/media/profil-bg.a589f8e6.jpg",
+    "static/media/reserved-bg.0bf8e6e3.jpg": "/fdlite/static/media/reserved-bg.0bf8e6e3.jpg",
+    "static/media/solde-bg.3f1d55c8.jpg": "/fdlite/static/media/solde-bg.3f1d55c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad2566a.js",
+    "static/js/2.e0370671.chunk.js",
+    "static/css/main.0cd1f00f.chunk.css",
+    "static/js/main.37996ba9.chunk.js"
+  ]
+}
